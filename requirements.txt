@@ -4,3 +4,4 @@ numpy==1.26.4
 scipy==1.13.0
 librosa==0.10.1
 streamlit==1.33.0
+torch==2.2.2
