@@ -1,5 +1,5 @@
 streamlit==1.33.0
-torch==2.2.2
+torch==2.2.2+cpu --index-url https://download.pytorch.org/whl/cpu
 numpy==1.26.4
 soundfile==0.12.1
 transformers==4.40.1
